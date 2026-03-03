@@ -2,3 +2,4 @@ __pycache__/
 .venv/
 chrome_langchain_db/
 restaurant_reviews.csv
+.python-version
