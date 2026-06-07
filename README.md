@@ -1,4 +1,4 @@
-# AIagentRepo - Chatbot RAG para Pizzería
+# AIagentRepo - Chatbot con RAG para Pizzería
 
 Este proyecto es un asistente inteligente diseñado para responder preguntas específicas sobre una pizzería basándose en reseñas reales de clientes. Utiliza una arquitectura de **Generación Aumentada por Recuperación (RAG)**, lo que permite al chatbot consultar una base de datos de conocimientos local antes de generar una respuesta, garantizando que la información sea precisa y esté contextualizada.
 
